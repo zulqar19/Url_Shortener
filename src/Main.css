@@ -1,0 +1,22 @@
+#text{
+    width: 35vw;
+    height: 3vw;
+}
+
+.buttons{
+    width: 55vw;
+    margin: 1rem auto;
+    /* border: 2px solid blue; */
+    padding: 1rem;
+}
+
+.btn{
+    color: white;
+    margin: 0 .5rem;
+    padding: 1rem;
+    background: none;
+}
+.footer{
+    width: 40vw;
+    margin: 1rem auto;
+}
